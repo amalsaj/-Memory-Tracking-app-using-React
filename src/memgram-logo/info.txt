@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Now-Medium
+font link: https://hanken.co/product/now/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+Slogan Font: Aleo-Light.otf
+
+icon designer: Max Hancock
+icon designer link: /maxhancock
+        
+{"bg-gradient-0":"#326D8A","bg-gradient-1":"#D468D7","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
